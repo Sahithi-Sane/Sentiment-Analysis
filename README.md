@@ -5,11 +5,10 @@
 **Project Title:**  Sentiment Analysis of Customer Review Datasets
 
 **Teammates Name:**
-
+- Sahithi Sane
 - Abhilasha Jagtap
 - Jeeva Saravana Bhavanandam
 - Madhurya Shankar
-- Sahithi Sane
 - Sandhya Kilari
 
 **Problem Statement:**
